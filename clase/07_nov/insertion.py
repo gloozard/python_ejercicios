@@ -29,6 +29,8 @@ def listaRandom (nDeElementos = 10, desde = 1, hasta =10):
 
 lista = listaRandom(20,1, 100)
 
+print(lista)
 print(insertion(lista))
+
         
         
